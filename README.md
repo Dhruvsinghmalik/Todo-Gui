@@ -40,7 +40,7 @@ README.md      # Documentation file (this file)
 ```
 
 ## Example Screenshot
-*(Include an example screenshot of the application in use here, if desired.)*
+![](./img/Todo_list_intrface.pm)
 
 ## Customization
 - Modify the **color scheme** in the `root.configure()` section to fit your preferences.
